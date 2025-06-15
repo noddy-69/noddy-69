@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I am Aryan Singh</h1>
 <h3 align="center"> AI and ML Enthusiast </h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noddy-69&label=Profile%20views&color=0e75b6&style=flat" alt="noddy-69" /> </p>
 
 ### 🤠 About Me :
 - 👨‍🎓 I am an undergrad student at IIT Roorkee.
-- 🔭 I am a developer.
-- 🌱 I am currently exploring SaaS and finance.
-- 📫 How to reach me: [Mail](mailto:noddyripper06@gmail.com) [Linkedin](https://www.linkedin.com/in/aryan-singh-4411a021a/))
+- 🔭 I like to develop products.
+- 🌱 I am currently exploring SaaS and Machine Learning.
+- 📫 How to reach me: [Mail](mailto:noddyripper06@gmail.com) [Linkedin](https://www.linkedin.com/in/aryan-singh-4411a021a/)
 - 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aryansingh0605_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-singh-4411a021a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noddyripper06@gmail.com)
